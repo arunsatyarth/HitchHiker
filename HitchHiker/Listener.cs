@@ -29,7 +29,6 @@ namespace HitchHiker
         IComChannel m_remoteObject = null;
         public void Listen()
         {
-            MessageBox.Show("hi");
             try
             {
                 AppDomain.CurrentDomain.AssemblyResolve += CurrentDomain_AssemblyResolve;
