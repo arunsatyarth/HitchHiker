@@ -1,4 +1,0 @@
-K:\Apps\HitchHiker\Bin\HitchHiker.dll
-K:\Apps\HitchHiker\Bin\HitchHiker.pdb
-K:\Apps\HitchHiker\HitchHiker\obj\x86\Debug\HitchHiker.dll
-K:\Apps\HitchHiker\HitchHiker\obj\x86\Debug\HitchHiker.pdb
