@@ -1,0 +1,5 @@
+K:\Apps\HitchHiker\Bin\HConsole.exe
+K:\Apps\HitchHiker\Bin\HConsole.pdb
+K:\Apps\HitchHiker\HConsole\obj\x86\Debug\HConsole.csprojResolveAssemblyReference.cache
+K:\Apps\HitchHiker\HConsole\obj\x86\Debug\HConsole.exe
+K:\Apps\HitchHiker\HConsole\obj\x86\Debug\HConsole.pdb
